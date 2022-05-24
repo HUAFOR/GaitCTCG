@@ -1,2 +1,2 @@
 # GaitCTCG
-The source code of GaitCTCG will be published!
+the soure code will be available soon!
