@@ -1,2 +1,2 @@
 # GaitCTCG
-the soure code will be available soon!
+The soure code of GaitCTCG will be available soon!
